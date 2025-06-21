@@ -3,9 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h2>🧿 Cybersecurity Projects:</h2>
+
   - [Active Directory HomeLab](https://github.com/)
+    
+
 <h2>📄Certifications</h2>
 
+- [CompTIA Security+](https://www.credly.com/badges/e9515907-48cb-4911-a513-44ef11c95aab/public_url)
+- [CompTIA IT Fundamentals](
 - [Google IT Support](https://)
 
 <h2>📺 Popular YouTube Videos</h2>
