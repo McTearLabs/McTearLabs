@@ -10,8 +10,8 @@
 <h2>📄Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/e9515907-48cb-4911-a513-44ef11c95aab/public_url)
-- [CompTIA IT Fundamentals](
-- [Google IT Support](https://)
+- [CompTIA IT Fundamentals](https://www.credly.com/badges/ebab50cc-58dc-4281-a330-e7a80b8727e0/public_url)
+- [Google IT Support(v2)](https://www.credly.com/badges/ebab50cc-58dc-4281-a330-e7a80b8727e0/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
